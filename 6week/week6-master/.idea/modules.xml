@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CADI-6.iml" filepath="$PROJECT_DIR$/CADI-6.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week6-master.iml" filepath="$PROJECT_DIR$/week6-master.iml" />
     </modules>
   </component>
 </project>
